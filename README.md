@@ -32,4 +32,6 @@ keras==2.2.4<br>
 
 - word-level seq2seq: https://towardsdatascience.com/word-level-english-to-marathi-neural-machine-translation-using-seq2seq-encoder-decoder-lstm-model-1a913f2dc4a7
 
+- Eng-Fr: https://medium.com/@dev.elect.iitd/neural-machine-translation-using-word-level-seq2seq-model-47538cba8cd7
+
 - Attention: 
