@@ -34,4 +34,8 @@ keras==2.2.4<br>
 
 - Eng-Fr: https://medium.com/@dev.elect.iitd/neural-machine-translation-using-word-level-seq2seq-model-47538cba8cd7
 
-- Attention: 
+- Attention: https://medium.com/datalogue/attention-in-keras-1892773a4f22
+
+- Attention-model: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).
+
+- Attention model wrapper:https://github.com/neonbjb/ml-notebooks/tree/master/keras-seq2seq-with-attention?source=post_page-----63565c8e498c----------------------
