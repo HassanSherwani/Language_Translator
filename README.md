@@ -4,9 +4,12 @@ The objective is to convert an English sentence to its German counterpart using 
 
 # Modules
 
-pandas , numpy , string , re , matplotlib , keras , tensorflow<br>
-
-(please refer to requirements.txt file)
+pandas==0.24.3<br>
+numpy==1.16.0<br>
+re==2.2.1<br>
+sklearn==0.20.3<br>
+tensorflow==1.12.0<br>
+keras==2.2.4<br>
 
 
 # References
