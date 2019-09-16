@@ -38,4 +38,4 @@ keras==2.2.4<br>
 
 - Attention-model: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008).
 
-- Attention model wrapper:https://github.com/neonbjb/ml-notebooks/tree/master/keras-seq2seq-with-attention?source=post_page-----63565c8e498c----------------------
+- Attention model wrapper: https://github.com/neonbjb/ml-notebooks/blob/master/keras-seq2seq-with-attention/keras_translate_notebook.ipynb
