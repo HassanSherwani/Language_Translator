@@ -4,7 +4,9 @@ The objective is to convert an English sentence to its German counterpart using 
 
 # Modules
 
-pandas,numpy,string,re,matplotlib,keras,tensorflow
+pandas , numpy , string , re , matplotlib , keras , tensorflow<br>
+
+(please refer to requirements.txt file)
 
 
 # References
