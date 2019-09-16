@@ -14,6 +14,8 @@ keras==2.2.4<br>
 
 # References
 
-- https://medium.com/@shabeelkandi/handling-out-of-vocabulary-words-in-natural-language-processing-based-on-context-4bbba16214d5
+- RNN: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
-- https://medium.com/analytics-vidhya/a-must-read-nlp-tutorial-on-neural-machine-translation-the-technique-powering-google-translate-c5c8d97d7587
+- Out-of-Vocab: https://medium.com/@shabeelkandi/handling-out-of-vocabulary-words-in-natural-language-processing-based-on-context-4bbba16214d5
+
+- Seq2seq:https://medium.com/analytics-vidhya/a-must-read-nlp-tutorial-on-neural-machine-translation-the-technique-powering-google-translate-c5c8d97d7587
